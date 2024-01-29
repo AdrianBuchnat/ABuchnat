@@ -5,10 +5,10 @@
 - 👀 I’m interested in Tech, role-playing game, history, music, philosphy, IT, programing.  
 - 🌱 I’m currently learning Python, JS and i'm improving my English level
 - 💞️ I’m looking to collaborate on OpenSource projects to which I can contribute in order to gain skills.
-- 📫 How to reach me **adrianbuchnat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  **adrianbuchnat@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
