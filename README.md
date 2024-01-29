@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <b>adrianbuchnat@gmail.com</b>
+  [https://www.linkedin.com/in/adrian-buchnat-5924602b1/?locale=en_US](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
