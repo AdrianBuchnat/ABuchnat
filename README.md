@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adrian Buchnat</h1>
+<h1 align="center">Hi 👋, I'm Adrian </h1>
 <h3 align="center">A passionate programmer from Poland</h3>
 
 - 👀 I’m interested in Tech, role-playing game, history, music, philosphy, IT, programing.  
